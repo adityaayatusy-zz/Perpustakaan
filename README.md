@@ -7,4 +7,3 @@ Ini adalaha aplikasi berbasis web yang digunakan untuk mengolah data di perpusta
 # Tampilan
 ![N](./assets/img/1.png)
 ![N](./assets/img/3.png)
-![N](./assets/img/5.png)
